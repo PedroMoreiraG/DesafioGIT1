@@ -9,6 +9,7 @@ public class Multiplication
         return a * b;
     }
 }
+// Devuelve a al cuadrado
 public class Power
 {
     public static int Squared(int a)
